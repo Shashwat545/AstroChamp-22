@@ -33,8 +33,8 @@
   height: 303px;
   background: linear-gradient(142deg, rgba(168,230,218,1) 2%, rgba(151,227,245,1) 30%, rgba(130,190,223,1) 66%, rgba(104,199,219,1) 74%, rgba(101,189,219,1) 84%, rgba(57,181,213,1) 96%);
   margin: 25px 0;
-  
-  
+
+
 
 }
 
@@ -56,8 +56,8 @@
   transform-origin: top;
   transform: translateY(100%) rotateX(-90deg);
   transition: 0.75s ease-in-out;
-  
-  
+
+
 }
 .Container .Card .content .title{
   font-size: 1.6rem;
@@ -79,8 +79,8 @@
   margin: 40px 15px;
   font-size: 35px;
   color: rgb(255, 255, 255);
-  
-  
+
+
 }
 
 
@@ -93,13 +93,3 @@
 .Container .Card:hover .content{
   transform: translateY(0%) rotateX(0deg);
 }
-
-
-
-
-
-
-
-
-
-
